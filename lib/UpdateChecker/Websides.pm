@@ -17,7 +17,6 @@
 package UpdateChecker::Websides;
 use Modern::Perl;
 use Moose;
-use Web::Scraper;
 
 =head3
 	data_file is to store data persistent.
@@ -35,7 +34,6 @@ has 'data' => ( isa => 'Str', is => 'rw' );
 =cut
 has 'url' => ( isa => 'Str', is => 'rw' );
 
-
 =head2
 	Methode for the use of this class
 =cut
@@ -46,9 +44,6 @@ has 'url' => ( isa => 'Str', is => 'rw' );
 =cut
 sub get_new_stories {
 	my ($self) = @_;
-	
-	_load_data();
-	
 	
 }
 =head2

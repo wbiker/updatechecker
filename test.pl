@@ -20,12 +20,17 @@
 
 use Modern::Perl;
 use utf8;
+use Data::Dumper;
 
 use FindBin qw($Bin);
 use lib "$Bin/lib";
 
-use UpdateChecker::Websides;
+use UpdateChecker::Websides::SlashDot;
 
-my $web = UpdateChecker::Websides->new;
+my $web = UpdateChecker::Websides::SlashDot->new;
+
+
+my $result = $web->get_new_data;
+print Dumper \$result;
 
 say "yeah";
