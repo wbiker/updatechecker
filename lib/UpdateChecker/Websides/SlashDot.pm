@@ -18,7 +18,7 @@
 package UpdateChecker::Websides::SlashDot;
 
 use Modern::Perl;
-use Moose;
+use Moo;
 use Web::Scraper;
 use URI;
 

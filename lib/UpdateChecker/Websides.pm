@@ -16,23 +16,23 @@
 #===============================================================================
 package UpdateChecker::Websides;
 use Modern::Perl;
-use Moose;
+use Moo;
 
 =head3
 	data_file is to store data persistent.
 	Each sub class can use it to save information
 =cut
-has 'data_file' => ( isa => 'Str', is => 'rw' );
+has 'data_file' => ( is => 'rw' );
 
 =head3
 	data is used to store the content of the the data_file
 =cut
-has 'data' => ( isa => 'Str', is => 'rw' );
+has 'data' => ( is => 'rw' );
 
 =head3
 	page saved the webside URL
 =cut
-has 'url' => ( isa => 'Str', is => 'rw' );
+has 'url' => ( is => 'rw' );
 
 =head2
 	Methode for the use of this class
