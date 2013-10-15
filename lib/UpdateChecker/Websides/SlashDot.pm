@@ -49,14 +49,14 @@ sub get_new_data {
 
 	my @heads_filtered = grep { $_ ne '' } @{$res->{titles}};
 
-	my $result = [];
+	my @result;
 	for my $head (@heads_filtered) {
-        push($result, $head);
+        push(@result, { head => $head, body => '' });
 	}
 
-	return $result;
+	return @result;
 }
 
-no Moose;
+no Moo;
 __PACKAGE__->meta->make_immutable();
 1;

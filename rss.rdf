@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss version="2.0"
+ xmlns:blogChannel="http://backend.userland.com/blogChannelModule"
+>
+
+<channel>
+<title>Wolfs Update Channel</title>
+<link>wbiker.dyndns.org</link>
+<description>My favorits websides without RSS</description>
+<pubDate>Thu, 26 Sep 2013 19:39:46 GMT</pubDate>
+<lastBuildDate>Thu, 26 Sep 2013 19:39:46 GMT</lastBuildDate>
+
+<item>
+<title> Ask Slashdot: Are We Witnessing the Decline of Ubuntu?</title>
+<link></link>
+<description></description>
+</item>
+<item>
+<title> NVIDIA Begins Releasing Documentation For Nouveau</title>
+<link></link>
+<description></description>
+</item>
+<item>
+<title> Middle-Click Paste? Not For Long</title>
+<link></link>
+<description></description>
+</item>
+<item>
+<title> Fedora Project Turns 10</title>
+<link></link>
+<description></description>
+</item>
+<item>
+<title> Valve Announces Linux-Based SteamOS</title>
+<link></link>
+<description></description>
+</item>
+<item>
+<title> The Dash Is Now Anonymized In Ubuntu 13.10</title>
+<link></link>
+<description></description>
+</item>
+<item>
+<title> Meet the Director of the Software Freedom Conservancy (Video)</title>
+<link></link>
+<description></description>
+</item>
+<item>
+<title> OpenSUSE May Be First Major Distro To Adopt Btrfs By Default</title>
+<link></link>
+<description></description>
+</item>
+<item>
+<title> Linus Torvalds Admits He&#x27;s Been Asked To Insert Backdoor Into Linux</title>
+<link></link>
+<description></description>
+</item>
+<item>
+<title> Group Attacks Bad Software Patents Before They&#x27;re Approved</title>
+<link></link>
+<description></description>
+</item>
+<item>
+<title> IBM VP Talks About Another $1 Billion for Linux Development (Video)</title>
+<link></link>
+<description></description>
+</item>
+<item>
+<title> Sailfish OS Gains Two-Way Android Compatibility</title>
+<link></link>
+<description></description>
+</item>
+<item>
+<title> New Operating System Seeks To Replace Linux In the Cloud</title>
+<link></link>
+<description></description>
+</item>
+<item>
+<title> IBM Promises $1B Investment In Linux Development</title>
+<link></link>
+<description></description>
+</item>
+<item>
+<title> Linux 3.12 Merge Window Closes With Release of Linux 3.12-rc1</title>
+<link></link>
+<description></description>
+</item>
+<item>
+<title>Building your own Moose</title>
+<link></link>
+<description>So you&#x27;ve switched to Moose a long time ago and you&#x27;re quite happy with it, but you slowly notice that there are, well, things you wish it did differently. Fortunately, there&#x27;s the MooseX:: namespace and now you have boilerplate you type at the beginning of every module.use Moose;
+use MooseX::StrictConstructor;
+use MooseX::HasDefaults::RO;
+use My::Moose::Types;
+The above incantation says &#x22;die if there are unknown arguments to new(), and attributes should be read-only by default, and throw in my custom-defined Moose types as well&#x22;.But boilerplate is bad. In my quest to remove boilerplate, I&#x27;ve produced Test::Most and other modules, but in this case, there&#x27;s not much to release because many people&#x27;s Moose preferences will be different. Still, it would be much nicer to write use My::Moose; rather than continually repeating the lines above, so here&#x27;s how to do that.</description>
+</item>
+<item>
+<title>Streaming Tomorrow&#x27;s NY Perl Mongers</title>
+<link></link>
+<description>SocialFlow is hosting tomorrow&#x27;s NY Perl Mongers event, which starts at 6:30 Eastern ( NY time ).Stevan Little will be speaking, the topic is:&#x22;A new object system for the Perl 5 core&#x22;We&#x27;re going to make a best effort at streaming it live on youtube. We&#x27;ll update the meetup.com page with the youtube link once we&#x27;re live, and I&#x27;ll post it on blogs.perl.org as well.Afterwards, the video should stay online at the same link.We&#x27;ll be using Google&#x27;s &#x22;Hangouts on Air&#x22; feature, which lets you broadcast a google hangout with a streaming youtube link.Hope to see a bunch of you there!</description>
+</item>
+<item>
+<title>CPAN Testers Server Upgrade</title>
+<link></link>
+<description>Hi folks,Sorry for the short notice, but the CPAN Testers Server will be getting an upgrade this weekend. This will start from Friday 27th September, and will continue over the weekend. Further details on the blog - http://blog.cpantesters.org/diary/167Please pass on to anyone you know who might be affected.Cheers, Barbie.</description>
+</item>
+<item>
+<title>Let&#x27;s make a Perl Nerd Merit Badge</title>
+<link></link>
+<description>Somehow I ran across Nerd Merit Badges. They have a cool Stackoverflow badge and an octocat badge. I want a [animal redacted pending permission] Perl nerd merit badge to be part of their line up. We can easily make custom badges, so that&#x27;s a good place to start.Pledge to get a Perl Nerd Merit BadgeI&#x27;ve started a Crowdtilt campaign to collect money to make their minimum order and a little extra, even though we don&#x27;t have the design yet (but we all know what it&#x27;s going to be, right? :) I&#x27;ll collect the money, make the order, receive the shipment, and send out the badges. You just need to pledge some money.And, if someone with some design skills can follow their guidelines (and maybe talk to me), we can get that bit going. If you think you have something, send me your design and we&#x27;ll let people vote. Or something. I don&#x27;t know yet. We&#x27;re JFDI right now. :)</description>
+</item>
+<item>
+<title>YAPC::Asia Tokyo 2013: Fighting Legacy Code</title>
+<link></link>
+<description>Due to popular demand, I&#x27;m going to post a summary/transcript of my presentation for YAPC::Asia Tokyo 2013, titled &#x22;Fighting Legacy Code&#x22;. It&#x27;s also the presentation that I would&#x27;ve given if I didn&#x27;t cancel my attendance for YAPC::NA Austin 2013. Because I wrote all this in a rush, the language is very terse. Please let me know on twitter (@lestrrat) if somethings don&#x27;t make sense.You could also take a look at my Japanese slides while reading through this. You may get a little more feel for what I&#x27;m writing about. </description>
+</item>
+<item>
+<title>Ouch 0.0408</title>
+<link></link>
+<description>Thanks to a patch by Graham Knop, Ouch now catches subclassed exceptions. How did I miss that? Thanks Graham. Also&#xA0;reformatted the Changes file according to the spec in CPAN::Changes::Spec thanks to sergeyromanov who is working on a quest to improve CPAN.[From my blog.]</description>
+</item>
+<item>
+<title>NET::LDAP Active Directory SID Unpack</title>
+<link></link>
+<description>I was searching high and low for a way to unpack what NET::LDAP was returning for an objectSID. When dumped, it was just a bunch of line noise garbage. Trying to figure out what format it was in I came across this:Re: Getting Active Directory objectsid value using Net::LDAP - Help!c. church says: Looking on MSN, which describes the SID structure (urL :http://msdn.microsoft.com/library/default.asp?url=/library/en-us/security/Security/sid_components.asp) it seems to say this: the format of the sid is S-R-S-S... Where the first byte is the revision level of the SID structure, the next 48bits (6 bytes) are the authority that issued the SID and then a variable number of (48bit?) subauthority values, as defined in Winnt.h The Microsoft URL referred to above is dead. (Microsoft has no idea how to keep the antiquated, yet useful, documentation they produce alive, yet they manage to keep Windows XP kickin&#x27; for over a decade. Go figure.)</description>
+</item>
+<item>
+<title>I translate &#x22;Understand Perl Scope&#x22; from Japanese to English</title>
+<link></link>
+<description>I translate &#x22;Understand Perl Scope&#x22; from Japanese to EnglishUnderstand Perl ScopeUnderstand Perl ScopePerl scope concept is very good. This is more understandable than other language. </description>
+</item>
+</channel>
+</rss>
